@@ -24,12 +24,12 @@
   <buildtool_depend>catkin</buildtool_depend>
   
   <build_depend>RobotRaconteur</build_depend>
-  <build_depend>dual_gripper</build_depend>
+  <build_depend>gripper</build_depend>
   <build_depend>rospy</build_depend>
   <build_depend>std_msgs</build_depend>
 
   <run_depend>RobotRaconteur</run_depend>
-  <run_depend>dual_gripper</run_depend>
+  <run_depend>gripper</run_depend>
   <run_depend>rospy</run_depend>
   <run_depend>std_msgs</run_depend>
 
